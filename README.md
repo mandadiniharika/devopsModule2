@@ -1,10 +1,10 @@
-#DevOps Module2
-##Student Details
+# DevOps Module2
+## Student Details
 -Name:Mandadi Niharika Reddy
 -Repository:devopsmodule2
-##description
+## description
 This repository contains DevOps Module2 practical programs and exercises.
-##Technologies Used
+## Technologies Used
 -git
 -github
 -C Programming
