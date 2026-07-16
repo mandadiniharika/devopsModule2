@@ -2,9 +2,12 @@
 ##Student Details
 -Name:Mandadi Niharika Reddy
 -Repository:devopsmodule2
-##description[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C
+##description
 This repository contains DevOps Module2 practical programs and exercises.
 ##Technologies Used
 -git
--github[D[D[D[D[G[G[B[C[C[C[C[C
+-github
 -C Programming
+## Additional Information
+
+This repository demonstrates Git and GitHub operations including cloning, staging, committing, pushing, pulling, and merge conflict resolution.
